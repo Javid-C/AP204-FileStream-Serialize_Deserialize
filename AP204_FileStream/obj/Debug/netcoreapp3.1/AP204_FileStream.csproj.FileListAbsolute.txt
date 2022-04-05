@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.exe
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.deps.json
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.dll
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\AP204_FileStream.pdb
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.dll
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.pdb
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\AP204_FileStream\AP204_FileStream\obj\Debug\netcoreapp3.1\AP204_FileStream.csproj.CopyComplete
